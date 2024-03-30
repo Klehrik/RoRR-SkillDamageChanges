@@ -1,0 +1,7 @@
+﻿{
+	"name": "Skill_Damage_Changes",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Klehrik/RoRR-SkillDamageChanges",
+	"description": "Adjusts the damage values of several skills.",
+	"dependencies": []
+}
