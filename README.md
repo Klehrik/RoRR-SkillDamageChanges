@@ -1,3 +1,5 @@
+[Thunderstore page](https://thunderstore.io/c/risk-of-rain-returns/p/Klehrik/Skill_Damage_Changes/)
+
 Adjusts the damage values of several skills.  
 (Adjusted skill descriptions are displayed in English, as I have no idea how to change the localization files.)  
 
