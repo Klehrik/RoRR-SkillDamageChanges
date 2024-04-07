@@ -1,8 +1,7 @@
--- Skill Damage Changes v1.0.0
+-- Skill Damage Changes v1.0.1
 -- Klehrik
 
 log.info("Successfully loaded ".._ENV["!guid"]..".")
-Helper = require("./helper")
 
 local init = false
 
