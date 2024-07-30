@@ -2,7 +2,7 @@
 	"name": "Skill_Damage_Changes",
 	"version_number": "1.0.2",
 	"website_url": "https://github.com/Klehrik/RoRR-SkillDamageChanges",
-	"description": "Adjusts the damage values of several skills.",
+	"description": "Adjusts the damage values of several skills, and fixes some incorrect descriptions.",
 	"dependencies": [
 		"ReturnOfModding-ReturnOfModding-1.0.34"
 	]
